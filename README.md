@@ -1,6 +1,9 @@
-# IBM_Datascience_Cert
+# IBM Data Science Capstone: Determining mission outcomes in SpaceX's Falcon-9 Landings
 
 Welcome to the repository of my jupyter notebook and code for the final project of the IBM Data Science Professional Certificate. Here you will find code used to generate results reported in the final project.
+
+![](https://kylechanhy.netlify.app/media/Untitled2.jpg)
+![](https://kylechanhy.netlify.app/media/Untitled4.jpg)
 
 The final report is available as a PDF, namely `Final report.pdf` in the repository.
 
@@ -36,11 +39,17 @@ can determine the cost of a launch easily.
 
 As Github does not render Folium maps, a fully interactive rendered notebook is available [here](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/1b101bbb-59ab-4e75-bc79-a969facda46d/view?access_token=69b0ea8214f5334ee0c67469782c4decdfbbe57d5aa791eeecc9616a78cdeb35).
 
+![](https://kylechanhy.netlify.app/media/Untitled3.jpg)
+![](https://kylechanhy.netlify.app/media/Untitled4.jpg)
+
 `07-Final- Dash.py` - Dashboard Script - This script launches an interactive dashboard (built with `Dash`) to allow users visualize:
 
 1. Share of success rates across launch sites
 2. Success-to-failure ratios in different launch sites
 3. Relationship between payload mass and success likelihood across different launch sites.
+
+![](https://kylechanhy.netlify.app/media/Untitled1.jpg)
+![](https://kylechanhy.netlify.app/media/Untitled2.jpg)
 
 `08-SpaceX_Machine Learning Prediction_Part_5.ipynb` - Model Development Notebook - This notebook shows how I developed the four models, tuned them with the best model parameters, and compared their performance.
 
