@@ -1,4 +1,4 @@
-# IBM Data Science Capstone: Determining mission outcomes in SpaceX's Falcon-9 Landings
+# IBM Data Science Capstone: Determining mission outcomes of SpaceX's Falcon-9 Landings
 
 Welcome to the repository of my jupyter notebook and code for the final project of the IBM Data Science Professional Certificate. Here you will find code used to generate results reported in the final project.
 
